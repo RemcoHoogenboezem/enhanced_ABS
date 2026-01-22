@@ -1,4 +1,5 @@
 # enhanced_ABS\
+\
 Annotate annovar or VEP file with statistics from one or more bam files using a sophisticated realignment algorithm for indel loci.\
 \
 Several system libraries are required to compile this project:\
@@ -28,4 +29,3 @@ enhanced_ABS v2.0 [options] > output.txt (output always to std::out)\
 |-u|--count-secondary       |void |If specified secondary fragments are used in the statistics (optional default=false)    |
 |-v|--verbose               |void |If specified be verbose (optional default=false)                                        |
 |-h|--help                  |void |This help                                                                               |
-
