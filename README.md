@@ -11,7 +11,7 @@ make\
 \
 Run options:\
 enhanced_ABS v2.0 [options] > output.txt (output always to std::out)\
-\
+
 |Short option|Long option|Type|Description|
 |---|---|---|---|
 |-f|--fasta-file            |text |Single fasta file(required)                                                             |
