@@ -1,10 +1,8 @@
 # enhanced_ABS\
 Annotate annovar or VEP file with statistics from one or more bam files using a sophisticated realignment algorithm for indel loci.\
 \
-Two static external libraries are required for the program to compile: libparasail and libhts\
-\Place a copmiled version of htslib in the same folder as the source code\
-\
-Futhermore several system libraries are required. \
-On debian and ubuntu: 
+Several system libraries are required to compile this project:\
+On debian and ubuntu: libhts-dev, libparasail-dev, zlib1g-dev, libbz2-dev, liblzma-dev, libcurl4-gnutls-dev or libcurl4-openssl-dev, libssl-dev, libdeflate-dev, libomp-dev\
 
+To compile use cmake:\
 
